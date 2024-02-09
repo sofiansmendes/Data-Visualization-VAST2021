@@ -1,0 +1,25 @@
+{
+	"name": "app-test-2",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "^2.0.0",
+		"@sveltejs/kit": "^1.5.0",
+		"svelte": "^3.54.0",
+		"vite": "^4.3.0"
+	},
+	"type": "module",
+	"dependencies": {
+		"bootstrap": "^5.3.0-alpha3",
+		"d3": "^7.8.4",
+		"d3-array": "^3.2.3",
+		"d3-fetch": "^3.0.1",
+		"d3-scale": "^4.0.2",
+		"d3-scale-chromatic": "^3.0.0"
+	}
+}
